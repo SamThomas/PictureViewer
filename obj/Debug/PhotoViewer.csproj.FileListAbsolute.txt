@@ -1,0 +1,36 @@
+C:\Users\Damien\Documents\Visual Studio 2013\Projects\Tortank\Tortank\bin\Debug\Tortank.exe.config
+C:\Users\Damien\Documents\Visual Studio 2013\Projects\Tortank\Tortank\bin\Debug\Tortank.exe.manifest
+C:\Users\Damien\Documents\Visual Studio 2013\Projects\Tortank\Tortank\bin\Debug\Tortank.application
+C:\Users\Damien\Documents\Visual Studio 2013\Projects\Tortank\Tortank\bin\Debug\Tortank.exe
+C:\Users\Damien\Documents\Visual Studio 2013\Projects\Tortank\Tortank\bin\Debug\Tortank.pdb
+C:\Users\Damien\Documents\Visual Studio 2013\Projects\Tortank\Tortank\obj\Debug\Tortank.CreationAlbum.resources
+C:\Users\Damien\Documents\Visual Studio 2013\Projects\Tortank\Tortank\obj\Debug\Tortank.MainForm.resources
+C:\Users\Damien\Documents\Visual Studio 2013\Projects\Tortank\Tortank\obj\Debug\Tortank.FullScreen.resources
+C:\Users\Damien\Documents\Visual Studio 2013\Projects\Tortank\Tortank\obj\Debug\Tortank.InformationAlbum.resources
+C:\Users\Damien\Documents\Visual Studio 2013\Projects\Tortank\Tortank\obj\Debug\Tortank.ModifierAlbum.resources
+C:\Users\Damien\Documents\Visual Studio 2013\Projects\Tortank\Tortank\obj\Debug\Tortank.Properties.Resources.resources
+C:\Users\Damien\Documents\Visual Studio 2013\Projects\Tortank\Tortank\obj\Debug\Tortank.SlideShow.resources
+C:\Users\Damien\Documents\Visual Studio 2013\Projects\Tortank\Tortank\obj\Debug\PhotoViewer.csproj.GenerateResource.Cache
+C:\Users\Damien\Documents\Visual Studio 2013\Projects\Tortank\Tortank\obj\Debug\Tortank.exe.manifest
+C:\Users\Damien\Documents\Visual Studio 2013\Projects\Tortank\Tortank\obj\Debug\Tortank.application
+C:\Users\Damien\Documents\Visual Studio 2013\Projects\Tortank\Tortank\obj\Debug\Tortank.exe
+C:\Users\Damien\Documents\Visual Studio 2013\Projects\Tortank\Tortank\obj\Debug\Tortank.pdb
+C:\Users\Samuel\Desktop\Tortank\Tortank\bin\Debug\Tortank.exe.config
+C:\Users\Samuel\Desktop\Tortank\Tortank\bin\Debug\Tortank.exe.manifest
+C:\Users\Samuel\Desktop\Tortank\Tortank\bin\Debug\Tortank.application
+C:\Users\Samuel\Desktop\Tortank\Tortank\bin\Debug\Tortank.exe
+C:\Users\Samuel\Desktop\Tortank\Tortank\bin\Debug\Tortank.pdb
+C:\Users\Samuel\Desktop\Tortank\Tortank\obj\Debug\PhotoViewer.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Desktop\Tortank\Tortank\obj\Debug\Tortank.CreationAlbum.resources
+C:\Users\Samuel\Desktop\Tortank\Tortank\obj\Debug\Tortank.MainForm.resources
+C:\Users\Samuel\Desktop\Tortank\Tortank\obj\Debug\Tortank.FullScreen.resources
+C:\Users\Samuel\Desktop\Tortank\Tortank\obj\Debug\Tortank.InformationAlbum.resources
+C:\Users\Samuel\Desktop\Tortank\Tortank\obj\Debug\Tortank.ModifierAlbum.resources
+C:\Users\Samuel\Desktop\Tortank\Tortank\obj\Debug\Tortank.Properties.Resources.resources
+C:\Users\Samuel\Desktop\Tortank\Tortank\obj\Debug\Tortank.SlideShow.resources
+C:\Users\Samuel\Desktop\Tortank\Tortank\obj\Debug\PhotoViewer.csproj.GenerateResource.Cache
+C:\Users\Samuel\Desktop\Tortank\Tortank\obj\Debug\Tortank.exe.manifest
+C:\Users\Samuel\Desktop\Tortank\Tortank\obj\Debug\Tortank.application
+C:\Users\Samuel\Desktop\Tortank\Tortank\obj\Debug\Tortank.exe
+C:\Users\Samuel\Desktop\Tortank\Tortank\obj\Debug\Tortank.pdb
+C:\Users\Samuel\Desktop\Tortank\Tortank\obj\Debug\Tortank.Resource1.resources

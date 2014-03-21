@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Tortank.exe" version="1.0.0.1" publicKeyToken="4c3f9e00c089d679" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Tortank" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Tortank.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Options du manifeste de contrôle de compte d'utilisateur
+          Si vous souhaitez modifier le niveau du contrôle de compte d'utilisateur Windows, remplacez le 
+          nœud requestedExecutionLevel par l'une des propositions suivantes :
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si vous souhaitez utiliser la virtualisation de fichiers et du Registre pour la 
+         compatibilité descendante, supprimez le nœud requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Tortank.exe" size="155136">
+      <assemblyIdentity name="Tortank" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Dju4q/65sMCZfl80Xpg6v8cQMszmRxdq59tnKCaG0z0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Tortank.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Pignouf\Damien" issuerKeyHash="fc9744adf7e5c950de30390e3f0d1258a90189fd" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>OhbgnuJxZQ1B2LqZRkFjmqhhXE7co1+/u+nkLoszj80=</DigestValue></Reference></SignedInfo><SignatureValue>093YmPbJq7kJMwt5DkspWtlPy8TJTVHm5c56JcUvB8U1ROGKO+h5byrSMRdiUm3zjPs734780BlWf/IcJQaNeWc6NZqNOTOhAm3hjFm+2pqdB1PsIWt06F1FyqVvsGt42YryXbeeDQkY8wDDsdt7L0mxC9ncMTiwyyxo5bvBCOk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>36BWBXpgQrSTwTh2Wx+MIaLbVdeG9mh66VANqnatpX4gkpfBP+rpeL+OSi8OjGAJQWSfNKT2iYkzDemBwcacpulkmyOf0GCjeOtxVyNaxPD6UXcwDKVI+XnxXZ/stWipstTrecebqEI+PW7T1Zhsp+oNpUiPJmzE9rGvfk10Uu0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="cd8f338b2ee4e9bbbf5fa3dc4e5c61a89a63414699bad8410d6571e29ee0163a" Description="" Url=""><as:assemblyIdentity name="Tortank.exe" version="1.0.0.1" publicKeyToken="4c3f9e00c089d679" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Pignouf\Damien</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Sey1ryG/kHva7oH9hl+e5qpZtlmFWxr+Vzy9RdNndGE=</DigestValue></Reference></SignedInfo><SignatureValue>LgHHhG0jop9Ohh/XJZhVfzdtDO3HdK0Bc2he7Xm9JrR+jIB91vqGQPkdaM9HxcaQ69G8NHi3OuIt9wwkpLTWeai2y83Qdc+710EBajSLvNY1Yvr5ojG7HAKD51tkVRiUm7rCiXi/RTev03d2VqhgUC2aV1fj7a3fT8CZXRP4p2U=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>36BWBXpgQrSTwTh2Wx+MIaLbVdeG9mh66VANqnatpX4gkpfBP+rpeL+OSi8OjGAJQWSfNKT2iYkzDemBwcacpulkmyOf0GCjeOtxVyNaxPD6UXcwDKVI+XnxXZ/stWipstTrecebqEI+PW7T1Zhsp+oNpUiPJmzE9rGvfk10Uu0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQZhgW4T6buLxGXhXzXHqeYTANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwAUABpAGcAbgBvAHUAZgBcAEQAYQBtAGkAZQBuMB4XDTE0MDMwNzE5NDYwMloXDTE1MDMwODAxNDYwMlowJzElMCMGA1UEAx4cAFAAaQBnAG4AbwB1AGYAXABEAGEAbQBpAGUAbjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA36BWBXpgQrSTwTh2Wx+MIaLbVdeG9mh66VANqnatpX4gkpfBP+rpeL+OSi8OjGAJQWSfNKT2iYkzDemBwcacpulkmyOf0GCjeOtxVyNaxPD6UXcwDKVI+XnxXZ/stWipstTrecebqEI+PW7T1Zhsp+oNpUiPJmzE9rGvfk10Uu0CAwEAATANBgkqhkiG9w0BAQsFAAOBgQAGr+dGWSh/LDokO39M65s6YO3VfdnErE/TnOyx86mYQf8CDIs9IZcY/6V0ap4WxMm6ijJO7780lMBGSRNUyKSzwoNCp33LgvVD91aG5yn7j5L7522wgr5zCGWg+av7K55pXDWq3HRgH8gzR5AwAXOlihyFIeg5rdTkfFCzrz4bjA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
